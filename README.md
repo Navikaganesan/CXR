@@ -17,19 +17,19 @@ While traditional AI code generation relies on internal inference, **CPGI** take
 
 ##  Key Features
 
-- ** Comment-to-Code Conversion**  
+-  Comment-to-Code Conversion 
   Write your logic as comments; CXR converts them into executable code.
 
-- ** Code Analysis & Correction**  
+- Code Analysis & Correction 
   Paste existing code to get real-time analysis and corrections. If no errors are found, a sample execution is provided.
 
-- ** Multi-Language Support**  
+-  Multi-Language Support  
   Select from multiple programming languages or define your own.
 
-- **Downloadable Code**  
+- Downloadable Code 
   Export the generated or corrected code to a file with the correct extension.
 
-- ** Customizable Themes**  
+-  Customizable Themes
   Toggle between light and dark modes for an optimized experience.
 
 ---
